@@ -55,7 +55,6 @@ The most valuable solution is to design a data-driven model that is able to iden
 
 # **Dataset**
 
-## Data Description:
 
 As for most of the ML classification tasks, there should be labeled data for the model to be trained and tested on.
 
